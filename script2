@@ -1,0 +1,17 @@
+box
+0 0 0 200 200 30
+ident
+rotate
+x 30
+sphere
+100 100 0 25
+torus
+100 100 0 25 75
+rotate
+y 30
+move
+150 150 0
+apply
+display
+save
+boxdonutmunchkin.png
